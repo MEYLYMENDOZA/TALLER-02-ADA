@@ -1,0 +1,26 @@
+[package]
+name = "Taller02"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "pregunta32"
+path = "src/pregunta32.rs"
+
+[[bin]]
+name = "pregunta33"
+path = "src/pregunta33.rs"
+
+[[bin]]
+name = "pregunta34"
+path = "src/pregunta34.rs"
+
+[[bin]]
+name = "pregunta35"
+path = "src/pregunta35.rs"
+
+[[bin]]
+name = "pregunta36"
+path = "src/pregunta36.rs"
